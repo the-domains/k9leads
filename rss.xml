@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[K9Leads]]></title>
         <description><![CDATA[K9Leads]]></description>
-        <link>https://thegrid.ai/k9leads/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 21 May 2016 18:28:00 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/k9leads/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[So Now We Know How C-3PO Got His Red Arm In The Force Awakens]]></title>
-            <description><![CDATA[<article><h1>So Now We Know How C-3PO Got His Red Arm In The Force Awakens</h1><p>Ladies and gentlemen, our global nightmare is over. After months-nearly five of them in fact-of waiting, Marvel's one-shot comic, revealing just why C-3PO has a red arm for most of The Force Awakens, is finally here. As bizarre as it may sound at first, the final product isn't half bad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff7a99fdf22b973fd7d5ffe88bda91f4fec8e32d.png"></article>]]></description>
-            <link>http://io9.gizmodo.com/so-now-we-know-how-c-3po-got-his-red-arm-in-the-force-a-1770741572</link>
-            <guid isPermaLink="false">e8802e99-ee12-44a6-bb87-09c898ab6fbe</guid>
-            <pubDate>Sat, 21 May 2016 18:27:59 GMT</pubDate>
-        </item>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Techies Project by Photographer Helena Price]]></title>
             <description><![CDATA[<article><h1>Techies Project by Photographer Helena Price</h1><p>The two words "Silicon Valley" immediately stir up stereotypes, stigma and maybe an HBO show. The name has become a cultural reflex, and that's what photographer Helena Price wants to change with her ambitious, large-scale portrait and interview series. Techies Project, launched today, is a collection of 100 in-depth interviews that breaks this idea of the "sameness" plaguing the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7265c5abd944ed7ad3fdd9c9b6270021b13537b.jpg"></article>]]></description>
